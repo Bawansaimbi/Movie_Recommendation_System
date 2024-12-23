@@ -10,7 +10,6 @@ This is a content-based recommendation system that suggests movies based on thei
 
 ## Project Structure
 - `movie_recommendation_core.ipynb`: The Jupyter Notebook with all code for preprocessing, training, and evaluation.
-- `similarity.pkl`: Pickle file containing the similarity matrix.
 - `movies.pkl`: Pickle file containing preprocessed movie data.
 - `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`: Datasets used for training and testing.
 
